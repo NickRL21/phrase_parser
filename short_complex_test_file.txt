@@ -1,0 +1,6 @@
+Hello this is my test file with some basic words in it.
+My test (file!) also        includes some punctuation?
+How should my test file handle it's favorite sentence.
+It's favorite sentence will# be "next". 
+The blue Whale is          actually red and the green PenGuin is Actually "red" as well!!!
+
