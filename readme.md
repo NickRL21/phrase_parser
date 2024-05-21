@@ -10,7 +10,7 @@ Node.js based command line tool for getting the 100 most common three word seque
 Running with single file
 `./phrase-parser.js <path_to_file>`
 Running with cat output piped to script
-`cat <path_to_file>| ./phrase-parser.js`
+`cat <path_to_file> | ./phrase-parser.js`
 Running with cat output piped to script and with multiple file paths specified
 `cat <path_to_file> | ./phrase-parser.js <path_to_file> <path_to_file> <path_to_file>`
 
